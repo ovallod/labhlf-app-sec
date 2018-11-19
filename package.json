@@ -1,0 +1,21 @@
+{
+  "name": "labhlf-server",
+  "version": "1.0.0",
+  "description": "labhlf blockchain API server",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "",
+    "errorhandler": "",
+    "ejs": "",
+    "express": "",
+    "passport": "",
+    "passport-http": ""
+  },
+  "repository": {},
+  "engines": {
+    "node": ""
+  }
+}
